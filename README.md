@@ -40,3 +40,6 @@ $solution = new Solution();
 $output = $solution->twoSumLessThank($arr, $k);
 print_r($output);
 ```
+```php
+Output: 58
+```
